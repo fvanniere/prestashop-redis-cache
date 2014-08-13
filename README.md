@@ -6,8 +6,8 @@ Redis cache for Prestashop
 Requirements
 ============
 
-    * Redis.io
-    * [[php-redis PECL extension:http://pecl.php.net/package/redis]]
+   * Redis.io
+   * php-redis PECL extension: http://pecl.php.net/package/redis
     
 
 Installation
