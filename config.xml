@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+<name>rediscache</name>
+<displayName><![CDATA[Redis Cache]]></displayName>
+<version><![CDATA[1.0]]></version>
+<description><![CDATA[Replace Memcached with Redis as reliable and fast cache storage]]></description>
+<author><![CDATA[Frédéric VANNIÈRE - Planet-Work]]></author>
+<tab><![CDATA[front_office_features]]></tab>
+<is_configurable>0</is_configurable>
+<need_instance>1</need_instance>
+<limited_countries></limited_countries>
+</module>
