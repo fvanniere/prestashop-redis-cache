@@ -44,7 +44,7 @@ class CacheMemcacheCore extends Cache
 	/**
 	 * @var bool Connection status
 	 */
-	protected $isConnected = false;
+	protected $_isConnected = false;
 
 	public function __construct()
 	{
